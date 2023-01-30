@@ -4,5 +4,5 @@ int add(int a,int d)
 	int c;
 	c=a+d;
 	printf("surya");
-	return c;
+	printf("surya");
 }
